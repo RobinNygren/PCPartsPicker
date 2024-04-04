@@ -11,7 +11,7 @@
       "memory": 16,
       "memorySpeed": "23000 Mhz",
       "memoryType": "GDDR6X",
-      "category": "GPU",
+      "type": "GPU",
       "price": 16990,
       "img": "src/assets/PartPictures/GPU/ASUS4080SuperStrix.jpg"
     }

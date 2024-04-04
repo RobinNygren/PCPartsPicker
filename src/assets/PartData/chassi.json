@@ -6,6 +6,7 @@
       "model": "4000D Airflow",
       "formFactor": "Mid Tower",
       "material": "Steel, Tempered Glass",
+      "type": "Chassi",
       "price": 100,
       "img": "src/assets/PartPictures/Chassis/corsair4000Dairflow.jpg"
     },
@@ -15,6 +16,7 @@
       "model": "H510",
       "formFactor": "Mid Tower",
       "material": "SGCC Steel, Tempered Glass",
+      "type": "Chassi",
       "price": 80,
       "img": "src/assets/PartPictures/Chassis/NZXT H510.jpg"
     },
@@ -24,6 +26,7 @@
       "model": "Eclipse P300A",
       "formFactor": "Mid Tower",
       "material": "Steel, Tempered Glass",
+      "type": "Chassi",
       "price": 60,
       "img": "src/assets/PartPictures/Chassis/Phanteks Eclipse P300A.jpg"
     },
@@ -33,6 +36,7 @@
       "model": "Meshify C",
       "formFactor": "Mid Tower",
       "material": "Steel, Tempered Glass",
+      "type": "Chassi",
       "price": 90,
       "img": "src/assets/PartPictures/Chassis/Fractal Design Meshify C.jpg"
     },
@@ -42,6 +46,7 @@
       "model": "Lancool II Mesh",
       "formFactor": "Mid Tower",
       "material": "Aluminum, Tempered Glass",
+      "type": "Chassi",
       "price": 110,
       "img": "src/assets/PartPictures/Chassis/Lian Li Lancool II Mesh.jpg"
     },
@@ -51,6 +56,7 @@
       "model": "V200",
       "formFactor": "Mid Tower",
       "material": "SPCC, Tempered Glass",
+      "type": "Chassi",
       "price": 70,
       "img": "src/assets/PartPictures/Chassis/Thermaltake V200.jpg"
     },
@@ -60,6 +66,7 @@
       "model": "MasterBox TD500",
       "formFactor": "Mid Tower",
       "material": "Plastic, Mesh, Tempered Glass",
+      "type": "Chassi",
       "price": 100,
       "img": "src/assets/PartPictures/Chassis/Cooler Master MasterBox TD500.jpg"
     },
@@ -69,6 +76,7 @@
       "model": "MAG Forge 100R",
       "formFactor": "Mid Tower",
       "material": "Steel, Tempered Glass",
+      "type": "Chassi",
       "price": 75,
       "img": "src/assets/PartPictures/Chassis/MSI MAG Forge 100R.jpg"
     },
@@ -78,6 +86,7 @@
       "model": "Pure Base 500DX",
       "formFactor": "Mid Tower",
       "material": "Steel, ABS, Tempered Glass",
+      "type": "Chassi",
       "price": 100,
       "img": "src/assets/PartPictures/Chassis/Be Quiet! Pure Base 500DX.jpg"
     },
@@ -87,6 +96,7 @@
       "model": "TUF Gaming GT501",
       "formFactor": "Mid Tower",
       "material": "Steel, Tempered Glass",
+      "type": "Chassi",
       "price": 150,
       "img": "src/assets/PartPictures/Chassis/ASUS TUF Gaming GT501.jpg"
     }

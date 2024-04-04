@@ -7,6 +7,7 @@
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 130,
       "img": "src/assets/PSUs/corsairRM750x.jpg"
     },
@@ -17,6 +18,7 @@
       "power": "850W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 150,
       "img": "src/assets/PSUs/evgaSuperNOVA850G3.jpg"
     },
@@ -27,6 +29,7 @@
       "power": "650W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 120,
       "img": "src/assets/PSUs/seasonicFocusGX650.jpg"
     },
@@ -37,6 +40,7 @@
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 100,
       "img": "src/assets/PSUs/coolerMasterMWE750.jpg"
     },
@@ -47,6 +51,7 @@
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 110,
       "img": "src/assets/PSUs/thermaltakeToughpowerGF1750.jpg"
     },
@@ -57,6 +62,7 @@
       "power": "650W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 115,
       "img": "src/assets/PSUs/beQuietStraightPower11650.jpg"
     },
@@ -67,6 +73,7 @@
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 125,
       "img": "src/assets/PSUs/nzxtC750.jpg"
     },
@@ -77,6 +84,7 @@
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 160,
       "img": "src/assets/PSUs/asusRogStrix750G.jpg"
     },
@@ -87,6 +95,7 @@
       "power": "850W",
       "certification": "80+ Gold",
       "modularity": "Full",
+      "type": "PSU",
       "price": 140,
       "img": "src/assets/PSUs/xfxXTR2850.jpg"
     },
@@ -97,6 +106,7 @@
       "power": "650W",
       "certification": "80+ Gold",
       "modularity": "Semi",
+      "type": "PSU",
       "price": 90,
       "img": "src/assets/PSUs/antecEarthwattsGoldPro650.jpg"
     }

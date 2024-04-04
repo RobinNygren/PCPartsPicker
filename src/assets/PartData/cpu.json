@@ -12,7 +12,7 @@
       "integratedGPU": "Yes, (Radeon Graphics)",
       "socket": "AM5",
       "cooler": false,
-      "category": "CPU",
+      "type": "CPU",
       "price": 4900,
       "img": "src/assets/PartPictures/CPU/7800X3D.jpg"
     }

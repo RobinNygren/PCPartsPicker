@@ -7,7 +7,7 @@
       "memory": "32GB",
       "memoryseed": "6000Mhz",
       "latency": "30-38-38-96",
-      "category": "RAM",
+      "type": "RAM",
       "price": 16500,
       "img": "src/assets/PartPictures/RAM/TridentZ5.jpg"
     }

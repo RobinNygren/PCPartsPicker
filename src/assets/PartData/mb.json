@@ -7,6 +7,7 @@
       "socket": "LGA 1200",
       "chipset": "Z590",
       "formFactor": "ATX",
+      "type": "Motherboard",
       "price": 400,
       "img": "src/assets/Motherboards/asusRogMaximusXIII.jpg"
     },
@@ -17,6 +18,7 @@
       "socket": "LGA 1200",
       "chipset": "Z490",
       "formFactor": "E-ATX",
+      "type": "Motherboard",
       "price": 750,
       "img": "src/assets/Motherboards/msiMegZ490.jpg"
     },
@@ -27,6 +29,7 @@
       "socket": "LGA 1200",
       "chipset": "Z590",
       "formFactor": "E-ATX",
+      "type": "Motherboard",
       "price": 800,
       "img": "src/assets/Motherboards/gigabyteZ590Aorus.jpg"
     },
@@ -37,6 +40,7 @@
       "socket": "AM4",
       "chipset": "B550",
       "formFactor": "ATX",
+      "type": "Motherboard",
       "price": 180,
       "img": "src/assets/Motherboards/asusTufB550Plus.jpg"
     },
@@ -47,6 +51,7 @@
       "socket": "AM4",
       "chipset": "B550",
       "formFactor": "ATX",
+      "type": "Motherboard",
       "price": 200,
       "img": "src/assets/Motherboards/msiMpgB550.jpg"
     },
@@ -57,6 +62,7 @@
       "socket": "AM4",
       "chipset": "B450",
       "formFactor": "Micro ATX",
+      "type": "Motherboard",
       "price": 110,
       "img": "src/assets/Motherboards/asrockB450M.jpg"
     },
@@ -67,6 +73,7 @@
       "socket": "AM4",
       "chipset": "X570",
       "formFactor": "ATX",
+      "type": "Motherboard",
       "price": 210,
       "img": "src/assets/Motherboards/gigabyteX570Aorus.jpg"
     },
@@ -77,6 +84,7 @@
       "socket": "LGA 1200",
       "chipset": "Z490",
       "formFactor": "ATX",
+      "type": "Motherboard",
       "price": 300,
       "img": "src/assets/Motherboards/asusRogStrixZ490E.jpg"
     },
@@ -87,6 +95,7 @@
       "socket": "AM4",
       "chipset": "B550",
       "formFactor": "ATX",
+      "type": "Motherboard",
       "price": 180,
       "img": "src/assets/Motherboards/msiMagB550Tomahawk.jpg"
     },
@@ -97,6 +106,7 @@
       "socket": "AM4",
       "chipset": "X570",
       "formFactor": "ATX",
+      "type": "Motherboard",
       "price": 160,
       "img": "src/assets/Motherboards/asrockX570Phantom.jpg"
     }
