@@ -1,3 +1,18 @@
 {
-  "cpu": [{}]
+  "cpu": [
+    {
+      "id": "cpu1",
+      "brand": "AMD",
+      "model": "7800X3D",
+      "clockspeed": "4.2Ghz",
+      "clockboost": "5Ghz",
+      "cores": 8,
+      "threads": 16,
+      "cache": "96 MB",
+      "integratedGPU": "Yes, (Radeon Graphics)",
+      "socket": "AM5",
+      "cooler": false,
+      "price": 4900
+    }
+  ]
 }
