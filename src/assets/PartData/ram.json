@@ -1,0 +1,15 @@
+{
+  "ram": [
+    {
+      "id": "ram1",
+      "brand": "G.Skill",
+      "model": "Trident Z5 NEO 2x16GB CL30",
+      "memory": "32GB",
+      "memoryseed": "6000Mhz",
+      "latency": "30-38-38-96",
+      "category": "RAM",
+      "price": 16500,
+      "img": "src/assets/PartPictures/TridentZ5.jpg"
+    }
+  ]
+}
