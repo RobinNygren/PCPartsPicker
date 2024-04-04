@@ -2,7 +2,8 @@
   "coolers": [
     {
       "id": "cooler1",
-      "name": "Cooler Master Hyper 212",
+      "brand": "Cooler Master",
+      "model": "Hyper 212",
       "type": "Air Cooler",
       "compatibility": "Intel & AMD",
       "price": 35,
@@ -10,7 +11,8 @@
     },
     {
       "id": "cooler2",
-      "name": "Noctua NH-D15",
+      "brand": "Noctua",
+      "model": "NH-D15",
       "type": "Air Cooler",
       "compatibility": "Intel & AMD",
       "price": 90,
@@ -18,7 +20,8 @@
     },
     {
       "id": "cooler3",
-      "name": "Be Quiet! Dark Rock Pro 4",
+      "brand": "Be Quiet!",
+      "model": "Dark Rock Pro 4",
       "type": "Air Cooler",
       "compatibility": "Intel & AMD",
       "price": 80,
@@ -26,7 +29,8 @@
     },
     {
       "id": "cooler4",
-      "name": "NZXT Kraken X53",
+      "brand": "NZXT",
+      "model": "Kraken X53",
       "type": "Liquid Cooler",
       "compatibility": "Intel & AMD",
       "price": 120,
@@ -34,7 +38,8 @@
     },
     {
       "id": "cooler5",
-      "name": "Corsair H100i RGB Platinum",
+      "brand": "Corsair",
+      "model": "H100i RGB Platinum",
       "type": "Liquid Cooler",
       "compatibility": "Intel & AMD",
       "price": 130,
@@ -42,7 +47,8 @@
     },
     {
       "id": "cooler6",
-      "name": "Arctic Freezer 34 eSports DUO",
+      "brand": "Arctic",
+      "model": "Freezer 34 eSports DUO",
       "type": "Air Cooler",
       "compatibility": "Intel & AMD",
       "price": 40,
@@ -50,7 +56,8 @@
     },
     {
       "id": "cooler7",
-      "name": "Thermaltake Floe DX RGB 240 TT Premium Edition",
+      "brand": "Thermaltake",
+      "model": "Floe DX RGB 240 TT Premium Edition",
       "type": "Liquid Cooler",
       "compatibility": "Intel & AMD",
       "price": 140,
@@ -58,7 +65,8 @@
     },
     {
       "id": "cooler8",
-      "name": "Deepcool Assassin III",
+      "brand": "Deepcool",
+      "model": "Assassin III",
       "type": "Air Cooler",
       "compatibility": "Intel & AMD",
       "price": 100,
@@ -66,7 +74,8 @@
     },
     {
       "id": "cooler9",
-      "name": "EVGA CLC 280mm",
+      "brand": "EVGA",
+      "model": "CLC 280mm",
       "type": "Liquid Cooler",
       "compatibility": "Intel & AMD",
       "price": 110,
@@ -74,7 +83,8 @@
     },
     {
       "id": "cooler10",
-      "name": "Scythe Mugen 5 Rev.B",
+      "brand": "Scythe",
+      "model": "Mugen 5 Rev.B",
       "type": "Air Cooler",
       "compatibility": "Intel & AMD",
       "price": 50,

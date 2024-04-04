@@ -2,7 +2,8 @@
   "psus": [
     {
       "id": "psu1",
-      "name": "Corsair RM750x",
+      "brand": "Corsair",
+      "model": "RM750x",
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -11,7 +12,8 @@
     },
     {
       "id": "psu2",
-      "name": "EVGA SuperNOVA 850 G3",
+      "brand": "EVGA",
+      "model": "SuperNOVA 850 G3",
       "power": "850W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -20,7 +22,8 @@
     },
     {
       "id": "psu3",
-      "name": "Seasonic FOCUS GX-650",
+      "brand": "Seasonic",
+      "model": "FOCUS GX-650",
       "power": "650W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -29,7 +32,8 @@
     },
     {
       "id": "psu4",
-      "name": "Cooler Master MWE Gold 750",
+      "brand": "Cooler Master",
+      "model": "MWE Gold 750",
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -38,7 +42,8 @@
     },
     {
       "id": "psu5",
-      "name": "Thermaltake Toughpower GF1 750W",
+      "brand": "Thermaltake",
+      "model": "Toughpower GF1 750W",
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -47,7 +52,8 @@
     },
     {
       "id": "psu6",
-      "name": "Be Quiet! Straight Power 11 650W",
+      "brand": "Be Quiet!",
+      "model": "Straight Power 11 650W",
       "power": "650W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -56,7 +62,8 @@
     },
     {
       "id": "psu7",
-      "name": "NZXT C750",
+      "brand": "NZXT",
+      "model": "C750",
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -65,7 +72,8 @@
     },
     {
       "id": "psu8",
-      "name": "Asus ROG Strix 750G",
+      "brand": "Asus",
+      "model": "ROG Strix 750G",
       "power": "750W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -74,7 +82,8 @@
     },
     {
       "id": "psu9",
-      "name": "XFX XTR2 850W",
+      "brand": "XFX",
+      "model": "XTR2 850W",
       "power": "850W",
       "certification": "80+ Gold",
       "modularity": "Full",
@@ -83,7 +92,8 @@
     },
     {
       "id": "psu10",
-      "name": "Antec Earthwatts Gold Pro 650W",
+      "brand": "Antec",
+      "model": "Earthwatts Gold Pro 650W",
       "power": "650W",
       "certification": "80+ Gold",
       "modularity": "Semi",

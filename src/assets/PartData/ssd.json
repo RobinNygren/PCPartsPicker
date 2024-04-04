@@ -2,7 +2,8 @@
   "ssds": [
     {
       "id": "ssd1",
-      "name": "Samsung 970 EVO Plus",
+      "brand": "Samsung",
+      "model": "970 EVO Plus",
       "capacity": "1TB",
       "interface": "NVMe M.2",
       "price": 170,
@@ -10,7 +11,8 @@
     },
     {
       "id": "ssd2",
-      "name": "Crucial MX500",
+      "brand": "Crucial",
+      "model": "MX500",
       "capacity": "1TB",
       "interface": "SATA III",
       "price": 110,
@@ -18,7 +20,8 @@
     },
     {
       "id": "ssd3",
-      "name": "Western Digital Blue SN550",
+      "brand": "Western Digital",
+      "model": "Blue SN550",
       "capacity": "1TB",
       "interface": "NVMe M.2",
       "price": 120,
@@ -26,7 +29,8 @@
     },
     {
       "id": "ssd4",
-      "name": "Seagate FireCuda 520",
+      "brand": "Seagate",
+      "model": "FireCuda 520",
       "capacity": "1TB",
       "interface": "NVMe PCIe Gen4",
       "price": 200,
@@ -34,7 +38,8 @@
     },
     {
       "id": "ssd5",
-      "name": "ADATA XPG SX8200 Pro",
+      "brand": "ADATA",
+      "model": "XPG SX8200 Pro",
       "capacity": "1TB",
       "interface": "NVMe M.2",
       "price": 150,
@@ -42,7 +47,8 @@
     },
     {
       "id": "ssd6",
-      "name": "Kingston A2000",
+      "brand": "Kingston",
+      "model": "A2000",
       "capacity": "1TB",
       "interface": "NVMe M.2",
       "price": 100,
@@ -50,7 +56,8 @@
     },
     {
       "id": "ssd7",
-      "name": "Intel 660p Series",
+      "brand": "Intel",
+      "model": "660p Series",
       "capacity": "1TB",
       "interface": "NVMe M.2",
       "price": 90,
@@ -58,7 +65,8 @@
     },
     {
       "id": "ssd8",
-      "name": "Samsung 860 EVO",
+      "brand": "Samsung",
+      "model": "860 EVO",
       "capacity": "1TB",
       "interface": "SATA III",
       "price": 140,
@@ -66,7 +74,8 @@
     },
     {
       "id": "ssd9",
-      "name": "Corsair Force MP600",
+      "brand": "Corsair",
+      "model": "Force MP600",
       "capacity": "1TB",
       "interface": "NVMe PCIe Gen4",
       "price": 180,
@@ -74,7 +83,8 @@
     },
     {
       "id": "ssd10",
-      "name": "Sabrent Rocket 4 Plus",
+      "brand": "Sabrent",
+      "model": "Rocket 4 Plus",
       "capacity": "1TB",
       "interface": "NVMe PCIe Gen4",
       "price": 190,
