@@ -1,0 +1,84 @@
+{
+  "chassis": [
+    {
+      "id": "chassis1",
+      "name": "Corsair 4000D Airflow",
+      "formFactor": "Mid Tower",
+      "material": "Steel, Tempered Glass",
+      "price": 100,
+      "img": "src/assets/PartPictures/Chassis/corsair4000Dairflow.jpg"
+    },
+    {
+      "id": "chassis2",
+      "name": "NZXT H510",
+      "formFactor": "Mid Tower",
+      "material": "SGCC Steel, Tempered Glass",
+      "price": 80,
+      "img": "src/assets/PartPictures/Chassis/NZXT H510.jpg"
+    },
+    {
+      "id": "chassis3",
+      "name": "Phanteks Eclipse P300A",
+      "formFactor": "Mid Tower",
+      "material": "Steel, Tempered Glass",
+      "price": 60,
+      "img": "src/assets/PartPictures/Chassis/Phanteks Eclipse P300A.jpg"
+    },
+    {
+      "id": "chassis4",
+      "name": "Fractal Design Meshify C",
+      "formFactor": "Mid Tower",
+      "material": "Steel, Tempered Glass",
+      "price": 90,
+      "img": "src/assets/PartPictures/Chassis/Fractal Design Meshify C.jpg"
+    },
+    {
+      "id": "chassis5",
+      "name": "Lian Li Lancool II Mesh",
+      "formFactor": "Mid Tower",
+      "material": "Aluminum, Tempered Glass",
+      "price": 110,
+      "img": "src/assets/PartPictures/Chassis/Lian Li Lancool II Mesh.jpg"
+    },
+    {
+      "id": "chassis6",
+      "name": "Thermaltake V200",
+      "formFactor": "Mid Tower",
+      "material": "SPCC, Tempered Glass",
+      "price": 70,
+      "img": "src/assets/PartPictures/Chassis/Thermaltake V200.jpg"
+    },
+    {
+      "id": "chassis7",
+      "name": "Cooler Master MasterBox TD500",
+      "formFactor": "Mid Tower",
+      "material": "Plastic, Mesh, Tempered Glass",
+      "price": 100,
+      "img": "src/assets/PartPictures/Chassis/Cooler Master MasterBox TD500.jpg"
+    },
+    {
+      "id": "chassis8",
+      "name": "MSI MAG Forge 100R",
+      "formFactor": "Mid Tower",
+      "material": "Steel, Tempered Glass",
+      "price": 75,
+      "img": "src/assets/PartPictures/Chassis/MSI MAG Forge 100R.jpg"
+    },
+    {
+      "id": "chassis9",
+      "name": "Be Quiet! Pure Base 500DX",
+      "formFactor": "Mid Tower",
+      "material": "Steel, ABS, Tempered Glass",
+      "price": 100,
+      "img": "src/assets/PartPictures/Chassis/Be Quiet! Pure Base 500DX.jpg"
+    },
+    {
+      "id": "chassis10",
+      "name": "ASUS TUF Gaming GT501",
+      "formFactor": "Mid Tower",
+      "material": "Steel, Tempered Glass",
+      "price": 150,
+      "img": "src/assets/PartPictures/Chassis/ASUS TUF Gaming GT501.jpg"
+    }
+  ]
+}

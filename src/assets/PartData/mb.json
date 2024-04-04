@@ -1,0 +1,94 @@
+{
+  "motherboards": [
+    {
+      "id": "mb1",
+      "name": "ASUS ROG Maximus XIII Hero",
+      "socket": "LGA 1200",
+      "chipset": "Z590",
+      "formFactor": "ATX",
+      "price": 400,
+      "img": "src/assets/Motherboards/asusRogMaximusXIII.jpg"
+    },
+    {
+      "id": "mb2",
+      "name": "MSI MEG Z490 Godlike",
+      "socket": "LGA 1200",
+      "chipset": "Z490",
+      "formFactor": "E-ATX",
+      "price": 750,
+      "img": "src/assets/Motherboards/msiMegZ490.jpg"
+    },
+    {
+      "id": "mb3",
+      "name": "Gigabyte Z590 Aorus Xtreme",
+      "socket": "LGA 1200",
+      "chipset": "Z590",
+      "formFactor": "E-ATX",
+      "price": 800,
+      "img": "src/assets/Motherboards/gigabyteZ590Aorus.jpg"
+    },
+    {
+      "id": "mb4",
+      "name": "ASUS TUF Gaming B550-Plus",
+      "socket": "AM4",
+      "chipset": "B550",
+      "formFactor": "ATX",
+      "price": 180,
+      "img": "src/assets/Motherboards/asusTufB550Plus.jpg"
+    },
+    {
+      "id": "mb5",
+      "name": "MSI MPG B550 Gaming Edge WiFi",
+      "socket": "AM4",
+      "chipset": "B550",
+      "formFactor": "ATX",
+      "price": 200,
+      "img": "src/assets/Motherboards/msiMpgB550.jpg"
+    },
+    {
+      "id": "mb6",
+      "name": "ASRock B450M Steel Legend",
+      "socket": "AM4",
+      "chipset": "B450",
+      "formFactor": "Micro ATX",
+      "price": 110,
+      "img": "src/assets/Motherboards/asrockB450M.jpg"
+    },
+    {
+      "id": "mb7",
+      "name": "Gigabyte X570 Aorus Elite",
+      "socket": "AM4",
+      "chipset": "X570",
+      "formFactor": "ATX",
+      "price": 210,
+      "img": "src/assets/Motherboards/gigabyteX570Aorus.jpg"
+    },
+    {
+      "id": "mb8",
+      "name": "ASUS ROG Strix Z490-E Gaming",
+      "socket": "LGA 1200",
+      "chipset": "Z490",
+      "formFactor": "ATX",
+      "price": 300,
+      "img": "src/assets/Motherboards/asusRogStrixZ490E.jpg"
+    },
+    {
+      "id": "mb9",
+      "name": "MSI MAG B550 Tomahawk",
+      "socket": "AM4",
+      "chipset": "B550",
+      "formFactor": "ATX",
+      "price": 180,
+      "img": "src/assets/Motherboards/msiMagB550Tomahawk.jpg"
+    },
+    {
+      "id": "mb10",
+      "name": "ASRock X570 Phantom Gaming 4",
+      "socket": "AM4",
+      "chipset": "X570",
+      "formFactor": "ATX",
+      "price": 160,
+      "img": "src/assets/Motherboards/asrockX570Phantom.jpg"
+    }
+  ]
+}
