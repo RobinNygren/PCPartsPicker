@@ -1,0 +1,94 @@
+{
+  "psus": [
+    {
+      "id": "psu1",
+      "name": "Corsair RM750x",
+      "power": "750W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 130,
+      "img": "src/assets/PSUs/corsairRM750x.jpg"
+    },
+    {
+      "id": "psu2",
+      "name": "EVGA SuperNOVA 850 G3",
+      "power": "850W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 150,
+      "img": "src/assets/PSUs/evgaSuperNOVA850G3.jpg"
+    },
+    {
+      "id": "psu3",
+      "name": "Seasonic FOCUS GX-650",
+      "power": "650W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 120,
+      "img": "src/assets/PSUs/seasonicFocusGX650.jpg"
+    },
+    {
+      "id": "psu4",
+      "name": "Cooler Master MWE Gold 750",
+      "power": "750W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 100,
+      "img": "src/assets/PSUs/coolerMasterMWE750.jpg"
+    },
+    {
+      "id": "psu5",
+      "name": "Thermaltake Toughpower GF1 750W",
+      "power": "750W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 110,
+      "img": "src/assets/PSUs/thermaltakeToughpowerGF1750.jpg"
+    },
+    {
+      "id": "psu6",
+      "name": "Be Quiet! Straight Power 11 650W",
+      "power": "650W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 115,
+      "img": "src/assets/PSUs/beQuietStraightPower11650.jpg"
+    },
+    {
+      "id": "psu7",
+      "name": "NZXT C750",
+      "power": "750W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 125,
+      "img": "src/assets/PSUs/nzxtC750.jpg"
+    },
+    {
+      "id": "psu8",
+      "name": "Asus ROG Strix 750G",
+      "power": "750W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 160,
+      "img": "src/assets/PSUs/asusRogStrix750G.jpg"
+    },
+    {
+      "id": "psu9",
+      "name": "XFX XTR2 850W",
+      "power": "850W",
+      "certification": "80+ Gold",
+      "modularity": "Full",
+      "price": 140,
+      "img": "src/assets/PSUs/xfxXTR2850.jpg"
+    },
+    {
+      "id": "psu10",
+      "name": "Antec Earthwatts Gold Pro 650W",
+      "power": "650W",
+      "certification": "80+ Gold",
+      "modularity": "Semi",
+      "price": 90,
+      "img": "src/assets/PSUs/antecEarthwattsGoldPro650.jpg"
+    }
+  ]
+}

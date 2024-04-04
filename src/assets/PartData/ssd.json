@@ -1,0 +1,84 @@
+{
+  "ssds": [
+    {
+      "id": "ssd1",
+      "name": "Samsung 970 EVO Plus",
+      "capacity": "1TB",
+      "interface": "NVMe M.2",
+      "price": 170,
+      "img": "src/assets/SSDs/samsung970EvoPlus.jpg"
+    },
+    {
+      "id": "ssd2",
+      "name": "Crucial MX500",
+      "capacity": "1TB",
+      "interface": "SATA III",
+      "price": 110,
+      "img": "src/assets/SSDs/crucialMX500.jpg"
+    },
+    {
+      "id": "ssd3",
+      "name": "Western Digital Blue SN550",
+      "capacity": "1TB",
+      "interface": "NVMe M.2",
+      "price": 120,
+      "img": "src/assets/SSDs/wdBlueSN550.jpg"
+    },
+    {
+      "id": "ssd4",
+      "name": "Seagate FireCuda 520",
+      "capacity": "1TB",
+      "interface": "NVMe PCIe Gen4",
+      "price": 200,
+      "img": "src/assets/SSDs/seagateFirecuda520.jpg"
+    },
+    {
+      "id": "ssd5",
+      "name": "ADATA XPG SX8200 Pro",
+      "capacity": "1TB",
+      "interface": "NVMe M.2",
+      "price": 150,
+      "img": "src/assets/SSDs/adataXpgSX8200Pro.jpg"
+    },
+    {
+      "id": "ssd6",
+      "name": "Kingston A2000",
+      "capacity": "1TB",
+      "interface": "NVMe M.2",
+      "price": 100,
+      "img": "src/assets/SSDs/kingstonA2000.jpg"
+    },
+    {
+      "id": "ssd7",
+      "name": "Intel 660p Series",
+      "capacity": "1TB",
+      "interface": "NVMe M.2",
+      "price": 90,
+      "img": "src/assets/SSDs/intel660p.jpg"
+    },
+    {
+      "id": "ssd8",
+      "name": "Samsung 860 EVO",
+      "capacity": "1TB",
+      "interface": "SATA III",
+      "price": 140,
+      "img": "src/assets/SSDs/samsung860Evo.jpg"
+    },
+    {
+      "id": "ssd9",
+      "name": "Corsair Force MP600",
+      "capacity": "1TB",
+      "interface": "NVMe PCIe Gen4",
+      "price": 180,
+      "img": "src/assets/SSDs/corsairForceMP600.jpg"
+    },
+    {
+      "id": "ssd10",
+      "name": "Sabrent Rocket 4 Plus",
+      "capacity": "1TB",
+      "interface": "NVMe PCIe Gen4",
+      "price": 190,
+      "img": "src/assets/SSDs/sabrentRocket4Plus.jpg"
+    }
+  ]
+}
