@@ -1,10 +1,16 @@
-import { useState } from "react";
 import "./App.css";
+import { PartsProvider } from "./PartsContext/PartsContext";
+import { ShowChassi } from "./Components/ShowChassi/ShowChassi";
 
 function App() {
   return (
     <>
-      <div></div>
+      <PartsProvider>
+        <div>
+          <h1>PC Komponenter</h1>
+          <ShowChassi />
+        </div>
+      </PartsProvider>
     </>
   );
 }

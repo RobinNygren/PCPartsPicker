@@ -12,3 +12,7 @@ export type Chassis = {
 export type ChassisData = {
   chassis: Chassis[];
 };
+
+export type PartsState = {
+  chassis: Chassis[];
+};
